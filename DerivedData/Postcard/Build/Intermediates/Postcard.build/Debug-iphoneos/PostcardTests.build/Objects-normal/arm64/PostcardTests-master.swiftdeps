@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.6 clang-602.0.49)"
+options: "1ea38d3cda9089c6d65165549644db1d"
+inputs: 
+- "/Users/Ross/Developer/Postcard/PostcardTests/PostcardTests.swift"

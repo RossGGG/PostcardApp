@@ -1,0 +1,39 @@
+### Swift dependencies file v0 ###
+provides:
+- "AppDelegate"
+nominals:
+- "C8Postcard11AppDelegate"
+class-members:
+- "applicationWillResignActive"
+- "applicationDidBecomeActive"
+- "applicationDidEnterBackground"
+- "application"
+- "applicationWillTerminate"
+- "applicationWillEnterForeground"
+- "window"
+top-level:
+- "AnyObject"
+- !private "BooleanLiteralType"
+- "UIResponder"
+- "Bool"
+- "UIWindow"
+- "UIApplicationDelegate"
+- "NSObject"
+- "UIApplication"
+member-access:
+- "C8Postcard11AppDelegate"
+- "CSo11UIResponder"
+- "CSo8NSObject"
+- "PSs9AnyObject"
+- "PSo21UIApplicationDelegate"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Security.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/CoreImage.swiftmodule"
